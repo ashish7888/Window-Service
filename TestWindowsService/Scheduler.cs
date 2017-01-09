@@ -41,5 +41,7 @@ namespace TestWindowsService
             Library.WriteErrorLog("Test Window Service Stopped");
 
         }
+
+        //programe finished 
     }
 }
